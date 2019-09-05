@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TelloViewTool::Renderer.copyright 'Héctor Tello', "Todos los derechos reservados"
+```
 
 ## Development
 
